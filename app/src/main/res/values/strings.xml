@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppMvvm</string>
+    <string name="text_example">I like palmito - Jeff</string>
+    <string name="txt_hint">Quote</string>
+    <string name="et_author">Author</string>
+    <string name="btn_txt_add_quote">Add Quote</string>
 </resources>
